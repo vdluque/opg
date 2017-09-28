@@ -236,11 +236,13 @@ a.logo img {
 button.next {
 	position: relative;
 	bottom: 25px;
+	z-index: 3;
 }
 
 button.prev {
 	position: relative;
 	bottom: 25px;
+	z-index: 3;
 }
 
 /*.slides#slides1 {

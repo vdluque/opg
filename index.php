@@ -29,17 +29,17 @@
 
         	<nav class="nav">
 
-                <a class="logo" href="/"><img src="assets/media/logo.png"></a>
+                <a class="logo" href="/"><img src="assets/media/img/logo.png"></a>
 
         		<ul class="nav-holder">
 
-        			<li class="nav-el environment"><a href="#">Environment</a></li>
+        			<li class="nav-el environment"><a href="#intro1">Environment</a></li>
 
-        			<li class="nav-el economy"><a href="#">Economy</a></li>
+        			<li class="nav-el economy"><a href="#intro2">Economy</a></li>
 
-        			<li class="nav-el communities"><a href="">Communities</a></li>
+        			<li class="nav-el communities"><a href="#intro3">Communities</a></li>
 
-        			<li class="nav-el innovation"><a href="">Innovation</a></li>
+        			<li class="nav-el innovation"><a href="#intro4">Innovation</a></li>
 
         		</ul>
 
@@ -67,7 +67,7 @@
                 </div>
     			<video class="top-video video" id="video" autoplay loop muted playsinline>
         			<!-- <source type="video/webm" src="assets/media/trees.webm"></source> -->
-        			<source type="video/mp4" src="assets/media/trees.mp4"></source>
+        			<source type="video/mp4" src="assets/media/video/trees.mp4"></source>
     			</video>
                 <span id="scrollPoint" style="position:relative; top:-50px;"></span>
 			</div>
@@ -94,7 +94,7 @@
 
             <div class="content intro" id="intro1">
 
-                <img class="ontario-img" src="assets/media/ontario_silhouette.gif">
+                <img class="ontario-img" src="assets/media/img/ontario_silhouette.gif">
 
                 <div class="intro-environment" id="scroll-trigger">
                    
@@ -108,7 +108,7 @@
 
             <video class="breaths-video video" id="video" autoplay loop muted playsinline>
                 <!-- <source type="video/webm" src="assets/media/waves.webm"></source> -->
-                <source type="video/mp4" src="assets/media/river.mp4"></source>
+                <source type="video/mp4" src="assets/media/video/river.mp4"></source>
             </video>
 
             <div class="content slides" id="slides1">
@@ -119,19 +119,19 @@
                             In addition to clean air emissions, Ontario Power Generation is making our environment greener though projects such as biodiversity protection and tree planting.
                             <br><br>
                             <span class="lightbox-link" id="salmon">
-                                <a href="./assets/media/opg-slide1.jpg" class="lightbox_trigger">
+                                <a href="./assets/media/img/opg-slide1.jpg" class="lightbox_trigger">
                                     Salmon Program <i class="fa fa-chevron-right" aria-hidden="true"></i>
                                 </a>
                             </span>
                             <br>
                             <span class="lightbox-link" id="bee">
-                                <a href="./assets/media/opg-slide1.jpg" class="lightbox_trigger">
+                                <a href="./assets/media/img/opg-slide1.jpg" class="lightbox_trigger">
                                     Let it Bee <i class="fa fa-chevron-right" aria-hidden="true"></i>
                                 </a>
                             </span>
                             <br>
                             <span class="lightbox-link" id="rangers">
-                                <a href="./assets/media/opg-slide1.jpg" class="lightbox_trigger">
+                                <a href="./assets/media/img/opg-slide1.jpg" class="lightbox_trigger">
                                     Earth Rangers <i class="fa fa-chevron-right" aria-hidden="true"></i>
                                 </a>
                             </span>
@@ -149,13 +149,13 @@
                     <div class="container">
 
                         <div style="display: inline-block;">
-                            <img src="./assets/media/opg-slide1.jpg" class="slider-image">
+                            <img src="./assets/media/img/opg-slide1.jpg" class="slider-image">
                         </div>
                         <div>
-                            <img src="./assets/media/opg-slide2.jpg" class="slider-image">
+                            <img src="./assets/media/img/opg-slide2.jpg" class="slider-image">
                         </div>
                         <div>
-                            <img src="./assets/media/opg-slide3.jpg" class="slider-image">
+                            <img src="./assets/media/img/opg-slide3.jpg" class="slider-image">
                         </div>
 
                     </div>
@@ -168,7 +168,7 @@
 
             <div class="content intro" id="intro2">
 
-                <img class="ontario-img" src="assets/media/ontario_silhouette.gif">
+                <img class="ontario-img" src="assets/media/img/ontario_silhouette.gif">
 
                 <div class="intro-environment">
                    
@@ -192,28 +192,28 @@
                         <div style="display: inline-block;">
                             <video class="breaths-video video slider-image" id="video" autoplay loop muted playsinline>
                                 <!-- <source type="video/webm" src="assets/media/waves.webm"></source> -->
-                                <source type="video/mp4" src="assets/media/waves.mp4"></source>
+                                <source type="video/mp4" src="assets/media/video/waves.mp4"></source>
                             </video>
                             <!-- <img src="./assets/media/opg-slide1.jpg" class="slider-image"> -->
                         </div>
                         <div>
                             <video class="breaths-video video slider-image" id="video" autoplay loop muted playsinline>
                                 <!-- <source type="video/webm" src="assets/media/waves.webm"></source> -->
-                                <source type="video/mp4" src="assets/media/waterfall.mp4"></source>
+                                <source type="video/mp4" src="assets/media/video/waterfall.mp4"></source>
                             </video>
                             <!-- <img src="./assets/media/opg-slide2.jpg" class="slider-image"> -->
                         </div>
                         <div>
                             <video class="breaths-video video slider-image" id="video" autoplay loop muted playsinline>
                                 <!-- <source type="video/webm" src="assets/media/waves.webm"></source> -->
-                                <source type="video/mp4" src="assets/media/trees.mp4"></source>
+                                <source type="video/mp4" src="assets/media/video/trees.mp4"></source>
                             </video>
                             <!-- <img src="./assets/media/opg-slide3.jpg" class="slider-image"> -->
                         </div>
                         <div>
                             <video class="breaths-video video slider-image" id="video" autoplay loop muted playsinline>
                                 <!-- <source type="video/webm" src="assets/media/waves.webm"></source> -->
-                                <source type="video/mp4" src="assets/media/river.mp4"></source>
+                                <source type="video/mp4" src="assets/media/video/river.mp4"></source>
                             </video>
                             <!-- <img src="./assets/media/opg-slide4.jpeg" class="slider-image"> -->
                         </div>
@@ -228,7 +228,7 @@
 
             <div class="content intro" id="intro3">
 
-                <img class="ontario-img" src="assets/media/ontario_silhouette.gif">
+                <img class="ontario-img" src="assets/media/img/ontario_silhouette.gif">
 
                 <div class="intro-environment">
                    
@@ -250,16 +250,16 @@
                     <div class="container">
 
                         <div style="display: inline-block;">
-                            <img src="./assets/media/opg-slide1.jpg" class="slider-image">
+                            <img src="./assets/media/img/opg-slide1.jpg" class="slider-image">
                         </div>
                         <div>
-                            <img src="./assets/media/opg-slide2.jpg" class="slider-image">
+                            <img src="./assets/media/img/opg-slide2.jpg" class="slider-image">
                         </div>
                         <div>
-                            <img src="./assets/media/opg-slide3.jpg" class="slider-image">
+                            <img src="./assets/media/img/opg-slide3.jpg" class="slider-image">
                         </div>
                         <div>
-                            <img src="./assets/media/opg-slide4.jpeg" class="slider-image">
+                            <img src="./assets/media/img/opg-slide4.jpeg" class="slider-image">
                         </div>
 
                     </div>
@@ -272,12 +272,12 @@
 
             <video class="content doc-video video" id="video" autoplay loop muted playsinline>
                 <!-- <source type="video/webm" src="assets/media/river.webm"></source> -->
-                <source type="video/mp4" src="assets/media/river.mp4"></source>
+                <source type="video/mp4" src="assets/media/video/river.mp4"></source>
             </video>
 
             <div class="content intro" id="intro4">
 
-                <img class="ontario-img" src="assets/media/ontario_silhouette.gif">
+                <img class="ontario-img" src="assets/media/img/ontario_silhouette.gif">
 
                 <div class="intro-environment">
                    
@@ -299,16 +299,16 @@
                     <div class="container">
 
                         <div style="display: inline-block;">
-                            <img src="./assets/media/opg-slide1.jpg" class="slider-image">
+                            <img src="./assets/media/img/opg-slide1.jpg" class="slider-image">
                         </div>
                         <div>
-                            <img src="./assets/media/opg-slide2.jpg" class="slider-image">
+                            <img src="./assets/media/img/opg-slide2.jpg" class="slider-image">
                         </div>
                         <div>
-                            <img src="./assets/media/opg-slide3.jpg" class="slider-image">
+                            <img src="./assets/media/img/opg-slide3.jpg" class="slider-image">
                         </div>
                         <div>
-                            <img src="./assets/media/opg-slide4.jpeg" class="slider-image">
+                            <img src="./assets/media/img/opg-slide4.jpeg" class="slider-image">
                         </div>
 
                     </div>
@@ -321,7 +321,7 @@
 
             <video class="content waterfall-video video" id="video" autoplay loop muted playsinline>
                 <!-- <source type="video/webm" src="assets/media/waterfall.webm"></source> -->
-                <source type="video/mp4" src="assets/media/waterfall.mp4"></source>
+                <source type="video/mp4" src="assets/media/video/waterfall.mp4"></source>
             </video>
 
         </div>
